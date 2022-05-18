@@ -4,9 +4,9 @@
 
 ◼ 程式語言 Python
 
-◼ 套件 Python3.10
+◼ 套件 OpenCV
 
-◼ 開發工具 Python
+◼ 開發工具 Python3.10
 
 ◼ 程式參考
 
