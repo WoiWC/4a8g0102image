@@ -48,9 +48,13 @@ image_process_ang.add_command(label= "仿射轉換",command = lambda: affine_tra
 image_process_ang.add_command(label= "透視轉換",command = lambda: perspective_transform(window))
 
 imagefunction = tk.Menu(toolbar,tearoff=False) #新增
+imagefunction.add_command(label= "簡易輪廓",command = lambda: simple(window))
 imagefunction.add_command(label= "哈里斯邊緣檢測",command = lambda: corner_harris(window))
 imagefunction.add_command(label= "較高精度哈里斯檢測",command = lambda: SubPixel(window))
 imagefunction.add_command(label= "輪廓檢測",command = lambda: findcontour(window))
+imagefunction.add_command(label= "邊界框",command = lambda: bounding(window))
+imagefunction.add_command(label= "凸包",command = lambda: trash(window))
+
 
 toolbar.add_cascade(label= "檔案", menu= file_menu)
 toolbar.add_cascade(label= "設定", menu= image_edit)
