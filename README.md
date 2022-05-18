@@ -14,7 +14,7 @@
   
   ▻[透視投影轉換](https://blog.51cto.com/u_15316847/3220450)
   
-  ▻[平移，縮放，旋轉，翻轉](https://blog.csdn.net/zh_jessica/article/details/77946346)
+  ▻[平移，縮放，旋轉，翻轉](https://codeantenna.com/a/zU8GpOmmve)
 
 基本功能 :
 
