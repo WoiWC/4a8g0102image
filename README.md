@@ -51,16 +51,8 @@
     仿射轉換
     透視轉換
     
-6.其他功能
-
-    簡易輪廓
-    哈里斯邊緣檢測
-    較高精度哈里斯檢測
-    輪廓檢測
-    邊界框
-    凸包
-
 
 程式界面:
 
-![unknown](https://user-images.githubusercontent.com/105765671/169027191-d8524ca2-0f93-4747-b9d5-934158d2823c.png)
+![擷取](https://user-images.githubusercontent.com/105765671/169194896-c878aad5-6e42-46c1-a22e-f1580acc2a10.PNG)
+
